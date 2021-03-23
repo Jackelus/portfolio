@@ -48,15 +48,15 @@ module.exports = {
   socialMedia: [
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/konstantin-muenster/",
+      url: "https://www.linkedin.com/in/jackd86/",
     },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
+    // {
+    //   name: "Medium",
+    //   url: "",
+    // },
     {
       name: "Github",
-      url: "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+      url: "https://github.com/Jackelus",
     },
   ],
 }
