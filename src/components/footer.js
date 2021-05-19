@@ -21,7 +21,7 @@ const StyledFooter = styled.footer`
 const Footer = () => (
   <StyledFooter>
     <a
-      href="https://github.com/konstantinmuenster/how-to-gatsby-portfolio"
+      href="https://github.com/Jackelus"
       target="_blank"
       rel="nofollow noopener noreferrer"
       aria-label="External Link"
